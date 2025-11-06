@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2Y3N3aDlzNHd6cm9iMWRwcXh5M2ptaXZnNHcycGtiZmc3MDlkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJva2E2N2NjMThsbWd6bTNxa255cmhzaHFzZGN0bDV2aGh1dHc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" width="100%" />
 
 # 👋 Привет! Я Artem
 
