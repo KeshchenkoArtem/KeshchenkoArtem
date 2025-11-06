@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsearch%2Fcomputer%2520coding%2F&psig=AOvVaw0MThLg_1DuKec85vb4PIFE&ust=1762514931505000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDgtf-13ZADFQAAAAAdAAAAABAE" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh0eDZ1OGp5ajBtc2h3NDN1dXFtb2l6amJ1c2IzOWNqb3hpMjk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" />
 
 # Hi! I'm Artem.
 
