@@ -1,4 +1,6 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh0eDZ1OGp5ajBtc2h3NDN1dXFtb2l6amJ1c2IzOWNqb3hpMjk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" style="width:100%;opacity:0.6;" />
+<div style="width:100%;text-align:center;">
+  <img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%" style="opacity:0.6;" />
+</div>
 
 # Hi! I'm Artem.
 
