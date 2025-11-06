@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDcwbGFrdjB0Y3Y0aXdhcWhoejNheWZsc2R3eDUyZGU3Ynp6aDQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" style="display: flex; justify-content: center;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRsMG9rY2xmdjNrdGNxd2VnaTExN3dvc3ZwZ3J1Mzk4d2RqOTQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" style="border-radius:12px;" />
 
 # Hi! I'm Artem.
 
