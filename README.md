@@ -10,4 +10,4 @@ Working with 3D models in Cinema 4D.
 Python
 
 ## Contact me:
-Telegram: [@ArtemKleshchenko]
+Telegram: [@ArtemKleshchenko](https://t.me/ArtemKleshchenko)
