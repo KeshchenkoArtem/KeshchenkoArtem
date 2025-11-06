@@ -1,4 +1,4 @@
-<img src="[https://github.com/KeshchenkoArtem/KeshchenkoArtem/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/KeshchenkoArtem/KeshchenkoArtem/refs/heads/main/snake.cpp)" />
+![Snake animation](https://github.com/KeshchenkoArtem/KeshchenkoArtem/blob/output/github-contribution-grid-snake.svg)
 
 # Hi! I'm Artem.
 
