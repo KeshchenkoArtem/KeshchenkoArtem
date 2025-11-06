@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJva2E2N2NjMThsbWd6bTNxa255cmhzaHFzZGN0bDV2aGh1dHc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" width="100%" />
+<img src="[https://github.com/KeshchenkoArtem/KeshchenkoArtem/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/KeshchenkoArtem/KeshchenkoArtem/refs/heads/main/snake.cpp)" />
 
 # Hi! I'm Artem.
 
