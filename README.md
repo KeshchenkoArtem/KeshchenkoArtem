@@ -1,4 +1,4 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsearch%2Fcomputer%2520coding%2F&psig=AOvVaw0MThLg_1DuKec85vb4PIFE&ust=1762514931505000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDgtf-13ZADFQAAAAAdAAAAABAE" />
 
 # Hi! I'm Artem.
 
